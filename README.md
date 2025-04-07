@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a student and I'm studying in BSc in Computer Science and Engineering at BRAC University. I love tackling problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a student and studying in BSc in Computer Science and Engineering at BRAC University. I love tackling problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: JAVA
 - 🔭 Working on: Arduino Projects
