@@ -7,7 +7,7 @@
 I'm a student and I'm studying in BSc in Computer Science and Engineering at BRAC University. I love tackling problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: JAVA
-- 🔭 Working on: My Life
+- 🔭 Working on: Arduino Projects
 - 🌍 Languages: Bangla & English
 - 📫 How to reach me: hasanjabir627@gmail.com
 - ⚡ Fun fact: I'm a Chill Guy or so I thought
