@@ -10,7 +10,7 @@ I'm a student and studying in BSc in Computer Science and Engineering at BRAC Un
 - 🔭 Working on: Arduino Projects
 - 🌍 Languages: Bangla & English
 - 📫 How to reach me: hasanjabir627@gmail.com
-- ⚡ Fun fact: I'm a Chill Guy or so I thought
+- ⚡ Fun fact: I'm a Chill Guy and I'm lazy
 
 
 
