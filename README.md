@@ -6,8 +6,8 @@
 
 I'm a student and studying in BSc in Computer Science and Engineering at BRAC University. I love tackling problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: JAVA
-- 🔭 Working on: Arduino Projects
+- 🌱 Currently learning: JAVA, Python (Manim)
+- 🔭 Working on: Manim Animation (In Progess)
 - 🌍 Languages: Bangla & English
 - 📫 How to reach me: hasanjabir627@gmail.com
 - ⚡ Fun fact: I'm a Chill Guy and I'm lazy
